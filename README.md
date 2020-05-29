@@ -12,3 +12,5 @@ Image alt text added. section notes added in HTML and CSS
 Provided mock-up in repository- ![mock up](./mock-up.png?raw=true "mock up")
 
 Provided screenshot of final site in repository - ![site displayed](./ "site displayed")
+
+In mock-up the footer was removed, but I left it in. 
