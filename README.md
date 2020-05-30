@@ -1,49 +1,54 @@
 
 
-GitHub deploy - https://bradleyeday.github.io/HoriseonAccessibility/Develop/index.html
-GitHub Code repository - https://github.com/BradleyEDay/HoriseonAccessibility
+## GitHub deploy - 
+https://bradleyeday.github.io/HoriseonAccessibility/Develop/index.html
+## GitHub Code repository - 
+https://github.com/BradleyEDay/HoriseonAccessibility
 
-Description & Notes on edits  - This code has been refactored in an effort to clean the code for easier future use and create a more accessible website. 
+## Description & Notes on edits  - 
 
-Duplicate/unnecessary styling has been placed in the "cutstyling.css" file in case it is needed in the future. 
+* This code has been refactored in an effort to clean the code for easier future use and create a more accessible website. 
 
-Image alt text added. 
+* Duplicate/unnecessary styling has been placed in the "cutstyling.css" file in case it is needed in the future. 
 
-In mock-up the footer was removed, but I left it in. Would ask for clarity in real world.
+* Image alt text added. 
 
-Added comments to HTML and CSS for clarity
+* In mock-up the footer was removed, but I left it in. Would ask for clarity in real world.
 
-HTML articles and header now auto size and will not overflow out of their containers
+* Added comments to HTML and CSS for clarity
 
-Headings made more clear
+* HTML articles and header now auto size and will not overflow out of their containers
 
-Homepage title adjusted for maximum clarity
+* Headings made more clear
 
-Navigation links fixed
+* Homepage title adjusted for maximum clarity
+
+* Navigation links fixed
 
 
-Work Checklist: 
+## Work Checklist: 
 
-GIVEN a webpage meets accessibility standards  
+* GIVEN a webpage meets accessibility standards  
 WHEN I view the source code DONE
-THEN I find semantic HTML elements
+* THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements DONE
-THEN I find that the elements follow a logical structure independent of styling and positioning  DONE
-WHEN I view the image elements
+* THEN I find that the elements follow a logical structure independent of styling and positioning  DONE
+* WHEN I view the image elements
 THEN I find accessible alt attributes  DONE
-WHEN I view the heading attributes
+* WHEN I view the heading attributes
 THEN they fall in sequential order  DONE
-WHEN I view the title element
+* WHEN I view the title element
 THEN I find a concise, descriptive title  DONE 
 
+* All requests completed 
 
-All requests completed 
+## Provided mock-up  in repository- 
+![mock up](./mock-up.png?raw=true "mock up")
 
-Provided mock-up in repository- ![mock up](./mock-up.png?raw=true "mock up")
+## Provided screenshot(gif) of final site in repository - 
+![site displayed](./homepage.png?raw=true "site displayed")
 
-Provided screenshot(gif) of final site in repository - ![site displayed](./homepage.png?raw=true "site displayed")
-
-gif also included in repo as screenshot cannot clearly encompass full page 
+* gif also included in repo as screenshot cannot clearly encompass full page 
 
 
-Application clearly resembles mock up screenshot 
+* Application clearly resembles mock up screenshot 
